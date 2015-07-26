@@ -1,0 +1,1 @@
+1: This project should be an online game for people to create and refine themselfs in an unknown space.
